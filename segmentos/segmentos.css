@@ -69,6 +69,93 @@ body{
         
     }
 } 
+.ENSINO_FUNDAMENTAL_II_TEMPO_INTEGRAL{
+  position: absolute;
+  top: 180%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+  img{
+      border-radius: 20px;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 700px;
+      left: 500px;
+  }    
+  button{
+  
+      background-color: #3684db;
+      position: absolute;
+      top: 120%;
+      left: 82%;
+      transform: translate(-50%, -50%);
+      border: none;
+      padding: 20px;
+      border-radius: 20px;
+      font-size: 18px;
+      color: #fff;
+      
+  }
+}
+.ENSINO_MÉDIO_REGULAR{
+  position: absolute;
+  top: 250%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+  img{
+      border-radius: 20px;
+      position: absolute;
+      top: 10%;
+      left: 20%;
+      transform: translate(25%, -10%);
+      width: 700px;
+      left: 500px;
+  }   
+  button{
+  
+      background-color: #3684db;
+      position: absolute;
+      top: 130%;
+      left: 25%;
+      transform: translate(-50%, -50%);
+      border: none;
+      padding: 20px;
+      border-radius: 20px;
+      font-size: 18px;
+      color: #fff;
+      
+  }
+}
+.ENSINO_MÉDIO_TEMPO_INTEGRAL{
+  position: absolute;
+  top: 310%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+  img{
+      border-radius: 20px;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 700px;
+      left: 500px;
+  }    
+  button{
+  
+      background-color: #3684db;
+      position: absolute;
+      top: 120%;
+      left: 82%;
+      transform: translate(-50%, -50%);
+      border: none;
+      padding: 20px;
+      border-radius: 20px;
+      font-size: 18px;
+      color: #fff;
+      
+  }
+}
 
 
 
